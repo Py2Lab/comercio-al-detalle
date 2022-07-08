@@ -1,0 +1,46 @@
+:root { 
+  --azul-2: #36586c;
+  --azul-comercio: #2051a4;
+  --black: #000000;
+  --blanco-fondo: #efefef;
+  --bloque-oscuro: #bdbfcc;
+  --texto: #020c12;
+ 
+  --font-size-16px: 16px;
+  --font-size-m: 24px;
+  --font-size-xl: 38px;
+ 
+  --font-family-oswald: "Oswald", Helvetica;
+  --font-family-raleway: "Raleway", Helvetica;
+}
+.subtitulo {
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 600;
+  letter-spacing: 0;
+}
+
+.cuerpo-grande {
+  font-family: var(--font-family-raleway);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.vinculo-subtitulo-1normal {
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-16px);
+  font-style: normal;
+  font-weight: 400;
+  letter-spacing: 0;
+}
+
+.oswald-normal-gallery-24px {
+  color: var(--blanco-fondo);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+}
