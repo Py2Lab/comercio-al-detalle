@@ -1,0 +1,648 @@
+/* screen - splashscreen */
+
+.splashscreen {
+  align-items: flex-start;
+  background-color: var(--blanco-puro);
+  display: flex;
+  height: 1120px;
+  overflow: hidden;
+  width: 1438px;
+}
+
+.splashscreen .overlap-group5 {
+  height: 4647px;
+  margin-left: -1px;
+  position: relative;
+  width: 1444px;
+}
+
+.splashscreen .bkg {
+  background-color: var(--blanco-fondo);
+  height: 4647px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1439px;
+}
+
+.splashscreen .component-2 {
+  align-items: flex-start;
+  display: flex;
+  height: 560px;
+  left: 0;
+  overflow: hidden;
+  position: absolute;
+  top: 82px;
+  width: 1438px;
+}
+
+.splashscreen .x1 {
+  height: 560px;
+  width: 1437px;
+}
+
+.splashscreen .component-2-item {
+  height: 560px;
+  margin-left: 98px;
+  width: 1438px;
+}
+
+.splashscreen .overlap-group1 {
+  align-items: center;
+  background-color: var(--azul-comercio);
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 480px;
+  padding: 50px 157px;
+  position: absolute;
+  top: 640px;
+  width: 1440px;
+}
+
+.splashscreen .bienvenido-a-tu-revi {
+  color: var(--blanco-fondo);
+  font-weight: 600;
+  line-height: 46px;
+  min-height: 46px;
+  text-align: center;
+  white-space: nowrap;
+  width: 1116px;
+}
+
+.splashscreen .hemos-desarrollado-p {
+  color: var(--blanco-fondo);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 40px;
+  min-height: 120px;
+  text-align: center;
+  width: 792px;
+}
+
+.splashscreen .contador {
+  align-items: center;
+  align-self: flex-end;
+  display: flex;
+  flex-direction: column;
+  margin-top: 40px;
+  min-height: 134px;
+  width: 1120px;
+}
+
+.splashscreen .overlap-group-1 {
+  background-color: var(--bloque-oscuro);
+  border-radius: 24px 24px 0px 0px;
+  height: 134px;
+  margin-right: 6.0px;
+  position: relative;
+  width: 1114px;
+}
+
+.splashscreen .x16-aos-de-experiencia {
+  color: var(--texto);
+  height: 134px;
+  left: 0;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 371px;
+}
+
+.splashscreen .span {
+  font-weight: 400;
+  line-height: 55px;
+}
+
+.splashscreen .span-1 {
+  font-weight: 500;
+  line-height: 40px;
+}
+
+.splashscreen .address {
+  color: var(--texto);
+  height: 134px;
+  left: 371px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 371px;
+}
+
+.splashscreen .span-2 {
+  font-weight: 400;
+  line-height: 32px;
+}
+
+.splashscreen .address-1 {
+  color: var(--texto);
+  height: 134px;
+  left: 743px;
+  line-height: 48px;
+  position: absolute;
+  text-align: center;
+  top: 0;
+  width: 371px;
+}
+
+.splashscreen .rectangle-15 {
+  background: linear-gradient(180deg, rgb(54, 88, 108) 0%, rgba(169.98, 173.38, 191.22, 0) 100%);
+  height: 20px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 1114px;
+}
+
+.splashscreen .line-container {
+  align-items: flex-start;
+  display: flex;
+  margin-right: 6.0px;
+  margin-top: 802px;
+  min-width: 373px;
+}
+
+.splashscreen .line-3 {
+  height: 134px;
+  width: 2px;
+}
+
+.splashscreen .line-4 {
+  height: 134px;
+  margin-left: 369px;
+  width: 2px;
+}
+
+.splashscreen .overlap-group2 {
+  height: 641px;
+  left: 443px;
+  position: absolute;
+  top: 81px;
+  width: 996px;
+}
+
+.splashscreen .subtract-container {
+  height: 641px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 996px;
+}
+
+.splashscreen .subtract {
+  height: 560px;
+  left: 0;
+  position: absolute;
+  top: 81px;
+  width: 986px;
+}
+
+.splashscreen .subtract-1 {
+  height: 560px;
+  left: 36px;
+  position: absolute;
+  top: 0;
+  width: 960px;
+}
+
+.splashscreen .aprende {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 368px;
+  min-width: 326px;
+  position: absolute;
+  top: 356px;
+}
+
+.splashscreen .aprende-1 {
+  align-items: flex-start;
+  background-color: var(--azul-2);
+  border-radius: 15px;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 30px;
+  padding: 8.0px 7.0px;
+}
+
+.splashscreen .group {
+  height: 13px;
+  width: 16px;
+}
+
+.splashscreen .aprende-tips-de-negocio {
+  color: var(--azul-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-left: 8px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.splashscreen .comparte {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 368px;
+  min-width: 326px;
+  position: absolute;
+  top: 401px;
+}
+
+.splashscreen .comparte-1 {
+  align-items: flex-end;
+  background-color: var(--azul-2);
+  border-radius: 15px;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 30px;
+  padding: 7.5px 7.8px;
+}
+
+.splashscreen .vector {
+  height: 15px;
+  width: 14px;
+}
+
+.splashscreen .comparte-ancdotas {
+  align-self: flex-end;
+  color: var(--azul-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-left: 8px;
+  min-height: 30px;
+  white-space: nowrap;
+  width: 286px;
+}
+
+.splashscreen .group-56 {
+  align-items: flex-start;
+  display: flex;
+  height: 30px;
+  left: 368px;
+  min-width: 326px;
+  position: absolute;
+  top: 446px;
+}
+
+.splashscreen .divierte {
+  align-items: flex-end;
+  background-color: var(--azul-2);
+  border-radius: 15px;
+  display: flex;
+  height: 30px;
+  justify-content: flex-end;
+  min-width: 30px;
+  padding: 6px 6.0px;
+}
+
+.splashscreen .icon-heart {
+  height: 16px;
+  width: 17px;
+}
+
+.splashscreen .divirtete {
+  color: var(--azul-2);
+  font-weight: 400;
+  line-height: 30px;
+  margin-left: 8px;
+  min-height: 30px;
+  white-space: nowrap;
+}
+
+.splashscreen .hagamos-crecer-nuestras-tienditas {
+  color: var(--azul-2);
+  font-weight: 700;
+  left: 368px;
+  line-height: 56px;
+  position: absolute;
+  top: 224px;
+  width: 466px;
+}
+
+.splashscreen .tenderos-comunidad {
+  align-items: center;
+  display: flex;
+  height: 124px;
+  left: 368px;
+  min-width: 252px;
+  position: absolute;
+  top: 50px;
+}
+
+.splashscreen .overlap-group-2 {
+  align-items: flex-end;
+  background-color: var(--azul-2);
+  border-radius: 64px;
+  display: flex;
+  height: 124px;
+  min-width: 124px;
+  padding: 21.5px 24.3px;
+}
+
+.splashscreen .logo-tenderos {
+  color: var(--blanco-puro);
+  font-family: var(--font-family-oswald);
+  font-size: var(--font-size-xxs);
+  font-weight: 300;
+  letter-spacing: 0;
+  line-height: 52px;
+  min-height: 64px;
+  text-align: center;
+  width: 74px;
+}
+
+.splashscreen .frame-41 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  margin-left: 15px;
+  min-height: 46px;
+  width: 113px;
+}
+
+.splashscreen .tenderos-mx {
+  color: var(--azul-2);
+  font-weight: 600;
+  height: 20px;
+  line-height: 20px;
+  margin-top: -1px;
+  min-width: 93px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.splashscreen .logos-redes-tenderos {
+  height: 16px;
+  margin-top: 11px;
+  width: 113px;
+}
+
+.splashscreen .contro-de-carrusel {
+  align-items: flex-start;
+  display: flex;
+  height: 10px;
+  left: 206px;
+  min-width: 142px;
+  position: absolute;
+  top: 530px;
+}
+
+.splashscreen .rectangle-33 {
+  background-color: var(--azul-comercio);
+  border-radius: 19px;
+  height: 10px;
+  width: 40px;
+}
+
+.splashscreen .rectangle-3 {
+  border-radius: 19px;
+  height: 10px;
+  margin-left: 11px;
+  margin-top: 0;
+  width: 40px;
+}
+
+.splashscreen .barra-de-men {
+  align-items: center;
+  background-color: var(--blanco-puro);
+  box-shadow: 4px 4px 15px #020c1280;
+  display: flex;
+  height: 80px;
+  left: 1px;
+  min-width: 1438px;
+  padding: 0 162px;
+  position: absolute;
+  top: 0;
+}
+
+.splashscreen .logo {
+  height: 58px;
+  object-fit: cover;
+  width: 304px;
+}
+
+.splashscreen .vinculos {
+  align-items: flex-start;
+  display: flex;
+  margin-left: 20px;
+  min-width: 630px;
+}
+
+.splashscreen .inicio {
+  color: var(--black);
+  font-weight: 400;
+  height: 26px;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  width: 142px;
+}
+
+.splashscreen .drop-1 {
+  align-items: flex-start;
+  cursor: pointer;
+  display: flex;
+  margin-left: 20px;
+  min-width: 144px;
+}
+
+.splashscreen .la-revista {
+  color: var(--black);
+  font-weight: 400;
+  height: 26px;
+  line-height: 26px;
+  text-align: center;
+  white-space: nowrap;
+  width: 142px;
+}
+
+.splashscreen .descarga {
+  color: var(--black);
+  font-weight: 400;
+  height: 26px;
+  line-height: 26px;
+  margin-left: 18px;
+  text-align: center;
+  white-space: nowrap;
+  width: 142px;
+}
+
+.splashscreen .comunidad {
+  color: var(--black);
+  font-weight: 400;
+  height: 26px;
+  line-height: 26px;
+  margin-left: 21px;
+  text-align: center;
+  white-space: nowrap;
+  width: 141px;
+}
+
+.splashscreen .popup {
+  align-items: flex-start;
+  background-color: var(--fondo-popup);
+  display: flex;
+  height: 1120px;
+  left: 1px;
+  min-width: 1437px;
+  padding: 170px 141px;
+  position: absolute;
+  top: 0;
+}
+
+.splashscreen .formulario {
+  align-items: flex-end;
+  background-color: var(--bloque-oscuro);
+  border-radius: 12px;
+  display: flex;
+  flex-direction: column;
+  min-height: 493px;
+  padding: 0 15px;
+  width: 1155px;
+}
+
+.splashscreen .overlap-group4 {
+  height: 121px;
+  margin-top: 15px;
+  position: relative;
+  width: 633px;
+}
+
+.splashscreen .group-98 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 106px;
+  position: absolute;
+  top: 15px;
+  width: 631px;
+}
+
+.splashscreen .amigo-tendero {
+  color: var(--azul-2);
+  font-weight: 600;
+  line-height: 46px;
+  min-height: 46px;
+  text-align: center;
+  white-space: nowrap;
+  width: 627px;
+}
+
+.splashscreen .suscrbete-a-nuestra {
+  color: var(--texto);
+  font-weight: 400;
+  line-height: 30px;
+  margin-top: 30px;
+  min-height: 30px;
+  text-align: center;
+  white-space: nowrap;
+  width: 627px;
+}
+
+.splashscreen .vector-1 {
+  cursor: pointer;
+  height: 30px;
+  left: 603px;
+  position: absolute;
+  top: 0;
+  width: 30px;
+}
+
+.splashscreen .overlap-group3 {
+  height: 497px;
+  margin-right: 6px;
+  margin-top: 30px;
+  position: relative;
+  width: 993px;
+}
+
+.splashscreen .tendero-portafolio-1 {
+  height: 493px;
+  left: 0;
+  object-fit: cover;
+  position: absolute;
+  top: 4px;
+  width: 486px;
+}
+
+.splashscreen .campo-de-texto {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 365px;
+  min-height: 202px;
+  position: absolute;
+  top: 0;
+  width: 628px;
+}
+
+.splashscreen .overlap-group-3 {
+  align-items: flex-start;
+  background-color: var(--blanco-fondo);
+  border-radius: 6px;
+  display: flex;
+  min-width: 628px;
+  padding: 0 21.1px;
+}
+
+.splashscreen .nombre {
+  color: var(--black);
+  font-weight: 400;
+  height: 54px;
+  line-height: 26px;
+  width: 195px;
+}
+
+.splashscreen .overlap-group {
+  align-items: flex-start;
+  background-color: var(--blanco-fondo);
+  border-radius: 6px;
+  display: flex;
+  margin-top: 20px;
+  min-width: 628px;
+  padding: 0 21.1px;
+}
+
+.splashscreen .correo-electronico {
+  color: var(--black);
+  font-weight: 400;
+  height: 54px;
+  line-height: 26px;
+  width: 204px;
+}
+
+.splashscreen .telfono {
+  color: var(--black);
+  font-weight: 400;
+  height: 54px;
+  line-height: 26px;
+  width: 199px;
+}
+
+.splashscreen .overlap-group2-1 {
+  align-items: flex-start;
+  background-color: var(--azul-comercio);
+  border-radius: 6px;
+  display: flex;
+  height: 65px;
+  justify-content: flex-end;
+  left: 365px;
+  min-width: 628px;
+  position: absolute;
+  top: 232px;
+}
+
+.splashscreen .suscrbete {
+  height: 65px;
+  letter-spacing: 0.12px;
+  line-height: 32px;
+  text-align: center;
+  text-decoration: underline;
+  width: 627px;
+}
